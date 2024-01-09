@@ -26,36 +26,35 @@ body {
 }
 
 .paper {
-  width: 20vw;
-  min-width: 200px;
-  height: 64vh;
+  width: 20rem;
+  height: 31.0625rem;
   padding: 1rem;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 4%;
+  border-radius: 1.25rem;
+  box-shadow: 1px 10px 22px 9px rgba(0, 0, 0, 0.05);
 }
 
 .qr-code {
   max-width: 100%;
-  border-radius: 5%;
+  border-radius: 0.625rem;
 }
 
 .content-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
   text-align: center;
-  font-size: 13px;
+  font-size: 1.3125rem;
 }
 
 .main-text {
   font-weight: 700;
   margin: 1rem;
   color: #1f2946;
+  letter-spacing: 0.03281rem;
 }
 
 .second-text {
   color: #96989c;
-  font-size: 0.7rem;
+  font-size: 0.9375rem;
   font-weight: 400;
+  letter-spacing: 0.00938rem;
+  margin: 0rem 1.56rem 0 1.56rem;
 }

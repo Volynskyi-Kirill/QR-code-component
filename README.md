@@ -4,10 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [My process](#my-process)
   - [Built with](#built-with)
-
-## My process
 
 ### Built with
 
