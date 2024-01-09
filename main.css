@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   font-family: "Outfit", sans-serif;
 }
 
@@ -50,6 +50,10 @@ body {
   margin: 1rem;
   color: #1f2946;
   letter-spacing: 0.03281rem;
+}
+
+h1 {
+  font-size: 1.3125rem;
 }
 
 .second-text {
